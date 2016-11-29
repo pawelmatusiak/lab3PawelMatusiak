@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Dominik/.m2/repository/com/googlecode/objectify/objectify/5.1.5/objectify-5.1.5.jar" sourcepath="C:/Users/Dominik/.m2/repository/com/googlecode/objectify/objectify/5.1.5/objectify-5.1.5-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="objectify-5.1.5.jar"/>
+			<attribute name="maven.groupId" value="com.googlecode.objectify"/>
+			<attribute name="maven.artifactId" value="objectify"/>
+			<attribute name="maven.version" value="5.1.5"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
